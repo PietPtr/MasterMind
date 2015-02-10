@@ -1,0 +1,6 @@
+package mastermind;
+
+public enum GameEnd
+{
+	WON, LOST, NONE
+}
